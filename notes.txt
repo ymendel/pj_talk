@@ -1,23 +1,22 @@
-credentials: 
-top-rated dj
-swing dj
-swing dance dj
-in nashville
-top-10
-(out of ten)
-
-but I'm the best programmer of the bunch
-(only programmer)
-
-talking about playlists, not djing
+# credentials: 
+# top-rated dj
+# swing dj
+# swing dance dj
+# in nashville
+# top-10
+# (out of ten)
+# 
+# but I'm the best programmer of the bunch
+# (only programmer)
+# 
+# talking about playlists, not djing
 
 Once you're done with a dj set, you have a playlist. This can be used for future reference
 
-
-at the end, reminder once again that all this relates to making playlists, not djing
-making playlists : djing :: ____ : ____   monologue : conversation
- or more audience-appropriate
-waterfall : agile
+# at the end, reminder once again that all this relates to making playlists, not djing
+# making playlists : djing :: ____ : ____   monologue : conversation
+#  or more audience-appropriate
+# waterfall : agile
 
 mix tapes/mix CDs (show repeated-word band names list)
 
