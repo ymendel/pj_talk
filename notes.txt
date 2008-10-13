@@ -25,3 +25,9 @@ talk about different versions, standards
 
 flying home -> some basie
 another version of flying home -> other basie
+
+organization, metadata
+musicbrainz, last.fm
+tools:
+earworm
+douche
