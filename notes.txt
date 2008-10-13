@@ -22,6 +22,7 @@ waterfall : agile
 mix tapes/mix CDs (show repeated-word band names list)
 
 talk about different versions, standards
+Sweet Georgia Brown (Bechet, Ella, Brother Bones)
 
 flying home (lionel hampton) (194 - from Big Band Jazz) -> Basie (Jumpin' at the Woodside - Decca)
 another version of flying home (still lionel hampton) (162 - from Big Band Leaders) -> other Basie (One O'Clock Jump - Anthology)
@@ -33,6 +34,7 @@ musicbrainz, last.fm
 tools:
 earworm
 douche
+graphtunes
 
 fingerprinting
 Sent For You Yesterday and Here You Come Today - Count Basie and His Orchestra - Big Band Jazz
@@ -43,3 +45,33 @@ Cassady:~/Music/dance/music/Compilations/Big Band Jazz/Volume 2 yossef$ ~/Music/
 Sent For You Yesterday - Count Basie - The Complete Decca Recordings
 Cassady:~/Music/dance/music/Count Basie/The Complete Decca Recordings/Disc 2 yossef$ ~/Music/identify_file.rb 03\ -\ Sent\ For\ You\ Yesterday.mp3 
 #<Earworm::Track:0x12f9a6c @puid_list=["189edc5b-74ba-83b7-3633-57814dd23397"], @artist_name="Count Basie", @title="Sent for You Yesterday and Here You Come Today">
+
+
+"expert system"
+requirements:
+1 hour long - knapsack problem (ish)
+bpm building/falling - graphtunes graph
+at least one food-related song
+
+food-related songs:
+obvious (words and title):
+Arkansas Cole Slaw
+Everybody Eats When They Come to My House
+I Like Pie, I Like Cake
+Potato Chips
+All That Meat and No Potatoes
+
+title:
+Pork & Beans
+Ham & Eggs - Jelly Roll Morton
+Dunkin' a Doughnut
+
+words:
+Smack Dab in the Middle
+It's Love
+
+
+C Jam Blues
+'C' Jam Blues
+The "C" Jam Blues
+Duke's Place
