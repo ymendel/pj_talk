@@ -23,11 +23,21 @@ mix tapes/mix CDs (show repeated-word band names list)
 
 talk about different versions, standards
 
-flying home -> some basie
-another version of flying home -> other basie
+flying home (lionel hampton) -> some basie
+another version of flying home (still lionel hampton) -> other basie
 
 organization, metadata
 musicbrainz, last.fm
 tools:
 earworm
 douche
+
+fingerprinting
+Sent For You Yesterday and Here You Come Today - Count Basie and His Orchestra - Big Band Jazz
+Cassady:~/Music/dance/music/Compilations/Big Band Jazz/Volume 2 yossef$ ~/Music/identify_file.rb 19\ -\ Sent\ For\ You\ Yesterday\ and\ Here\ You\ Come\ Today.mp3 
+#<Earworm::Track:0x12f93c8 @puid_list=["d32e2cd3-0c13-eb30-0698-8fbdd8f0569b"], @artist_name="Count Basie", @title="Sent For You Yesterday">
+
+
+Sent For You Yesterday - Count Basie - The Complete Decca Recordings
+Cassady:~/Music/dance/music/Count Basie/The Complete Decca Recordings/Disc 2 yossef$ ~/Music/identify_file.rb 03\ -\ Sent\ For\ You\ Yesterday.mp3 
+#<Earworm::Track:0x12f9a6c @puid_list=["189edc5b-74ba-83b7-3633-57814dd23397"], @artist_name="Count Basie", @title="Sent for You Yesterday and Here You Come Today">
