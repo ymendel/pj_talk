@@ -75,3 +75,12 @@ C Jam Blues
 'C' Jam Blues
 The "C" Jam Blues
 Duke's Place
+
+
+plist
+plist xml
+painful itunes format
+itunes consumes xml in stupid way
+tracks need to come before playlist
+plist gem doesn't really allow for this (keys.sort)
+manually ensuring tracks come before playlist (git diff)
