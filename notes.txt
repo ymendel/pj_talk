@@ -18,7 +18,7 @@ Once you're done with a dj set, you have a playlist. This can be used for future
 #  or more audience-appropriate
 # waterfall : agile
 
-mix tapes/mix CDs (show repeated-word band names list)
+mix tapes/mix CDs # (show repeated-word band names list)
 
 talk about different versions, standards
 Sweet Georgia Brown (Bechet, Ella, Brother Bones)
