@@ -10,15 +10,15 @@
 # (only programmer)
 # 
 # talking about playlists, not djing
-
-Once you're done with a dj set, you have a playlist. This can be used for future reference
-
+# 
+# Once you're done with a dj set, you have a playlist. This can be used for future reference
+# 
 # at the end, reminder once again that all this relates to making playlists, not djing
 # making playlists : djing :: ____ : ____   monologue : conversation
 #  or more audience-appropriate
 # waterfall : agile
-
-mix tapes/mix CDs # (show repeated-word band names list)
+# 
+# mix tapes/mix CDs # (show repeated-word band names list)
 
 talk about different versions, standards
 Sweet Georgia Brown (Bechet, Ella, Brother Bones)
