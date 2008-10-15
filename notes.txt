@@ -46,34 +46,28 @@ graphtunes
 # #<Earworm::Track:0x12f9a6c @puid_list=["189edc5b-74ba-83b7-3633-57814dd23397"], @artist_name="Count Basie", @title="Sent for You Yesterday and Here You Come Today">
 
 
-"expert system"
-requirements:
-1 hour long - knapsack problem (ish)
-bpm building/falling - graphtunes graph
-at least one food-related song
-
-food-related songs:
-obvious (words and title):
-Arkansas Cole Slaw
-Everybody Eats When They Come to My House
-I Like Pie, I Like Cake
-Potato Chips
-All That Meat and No Potatoes
-
-title:
-Pork & Beans
-Ham & Eggs - Jelly Roll Morton
-Dunkin' a Doughnut
-
-words:
-Smack Dab in the Middle
-It's Love
-
-
-C Jam Blues
-'C' Jam Blues
-The "C" Jam Blues
-Duke's Place
+# "expert system"
+# requirements:
+# 1 hour long - knapsack problem (ish)
+# bpm building/falling - graphtunes graph
+# at least one food-related song
+# 
+# food-related songs:
+# obvious (words and title):
+# Arkansas Cole Slaw
+# Everybody Eats When They Come to My House
+# I Like Pie, I Like Cake
+# Potato Chips
+# All That Meat and No Potatoes
+# 
+# title:
+# Pork & Beans
+# Ham & Eggs - Jelly Roll Morton
+# Dunkin' a Doughnut
+# 
+# words:
+# Smack Dab in the Middle
+# It's Love
 
 
 plist
