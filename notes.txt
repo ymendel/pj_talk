@@ -70,10 +70,10 @@ graphtunes
 # It's Love
 
 
-plist
-plist xml
-painful itunes format
-itunes consumes xml in stupid way
-tracks need to come before playlist
-plist gem doesn't really allow for this (keys.sort)
-manually ensuring tracks come before playlist (git diff)
+#plist
+#plist xml
+#painful itunes format
+#itunes consumes xml in stupid way
+#tracks need to come before playlist
+#plist gem doesn't really allow for this (keys.sort)
+#manually ensuring tracks come before playlist (git diff)
